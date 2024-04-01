@@ -1,0 +1,14 @@
+site_name: My Docs
+repo_url: https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs
+
+extra_css: 
+  - assets/stylesheets/extra.css
+
+theme:
+  name: material
+  language: pt
+  features:
+          - navigation.tabs
+
+nav:
+  - Home: index.md

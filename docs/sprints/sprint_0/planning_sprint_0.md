@@ -30,7 +30,7 @@ A [Sprint 0](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/mileston
 5. **Issue:** [#6 Documentar Planejamento Sprint 0](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/issues/6)<br>
 **Responsáveis:** Bruno e Luisa<br>
 
-6. **Issue:** [#7 Criar GitHub Page de Documentação do Projeto](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/issues/7)<br>
+6. **Issue:** [#7 Criar Documento da Metodologia do Projeto](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/issues/7)<br>
 **Responsáveis:** Bruno<br>
 
 7. **Issue:** [#8 1ª Reunião do Conselho Real (25/03)](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/issues/8)<br>
@@ -39,5 +39,5 @@ A [Sprint 0](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/mileston
 8. **Issue:** [#9 Planejar Treinamentos](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/issues/9)<br>
 **Responsáveis:** Bruno<br>
 
-9. **Issue:** [#10 Criar a github page](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/issues/10)<br>
+9. **Issue:** [#10 Criar GitHub Page de Documentação do Projeto](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/issues/10)<br>
 **Responsáveis:** Bruno<br>

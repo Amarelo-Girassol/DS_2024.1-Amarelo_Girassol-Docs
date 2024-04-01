@@ -12,6 +12,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Gestão do Projeto:
-    - Sprint 0:
-      - Planning: sprints/sprint_0/planning_sprint_0.md
+  - Projeto:
+    - Metodologia: projeto/metodologia.md
+    - Sprints:
+      - Sprint 0:
+        - Planning: sprints/sprint_0/planning_sprint_0.md

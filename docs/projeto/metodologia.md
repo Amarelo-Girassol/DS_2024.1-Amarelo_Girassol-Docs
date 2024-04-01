@@ -62,11 +62,6 @@ Agenda da Lean Inception realizada
     - ShowCase: São apresentados os resultados obtidos no workshop (Não será aplicado).
 
 
-### 4. Comunicação
-
-&emsp;&emsp;O plano de comunicação da equipe está dividido em reuniões semanais fixas entre o próprio time no Microsoft Teams. A comunicação não oficial é realizada por meio do grupo no WhatsApp. Além disso são realizadas reuniões presenciais na UnB no campus do Gama todas as segundas e sextas, durante o horário de aula.
-
-
 ## Contribuições
 
 | Versão | Data       | Descrição | Autores |

@@ -13,6 +13,7 @@ theme:
 nav:
   - Home: index.md
   - Projeto:
+    - Treinamento: projeto/treinamento.md
     - Metodologia: projeto/metodologia.md
     - Sprints:
       - Sprint 0:

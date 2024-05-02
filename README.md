@@ -5,13 +5,13 @@
 
 ## Integrantes:
 <ul>
-<li>Bruno Alves (conselheiro) <br></li>
-<li>Luísa De Souza (duquesa) <br></li>
-<li>Camila Silva (vice-duquesa) <br></li>
-<li>Brenda Breatriz (cavaleira) <br></li>
-<li>Geovanna Alves (cavaleira) <br></li>
-<li>Laryssa Felix (cavaleira) <br></li>
-<li>Letícia Da Silva (cavaleira)</li>
+<li>Bruno Alves (conselheiro); <br></li>
+<li>Luísa De Souza (duquesa); <br></li>
+<li>Camila Silva (vice-duquesa); <br></li>
+<li>Brenda Breatriz (cavaleira); <br></li>
+<li>Geovanna Alves (cavaleira); <br></li>
+<li>Laryssa Felix (cavaleira); <br></li>
+<li>Letícia Da Silva (cavaleira).</li>
 </ul>
 
 ## Projeto:

@@ -1,7 +1,7 @@
 # ![file-removebg-preview4](https://github.com/DS-AmareloGirassol/AmareloGirassol-Docs/assets/143897458/9d28b8c2-f8fd-4f3d-b877-31e72a11a494) Código de Conduta
 
 <br />
-<h2>Visão geral e Propósito</h2>
+<h2>Visão Geral e Propósito</h2>
 O objetivo deste código de conduta é promover um ambiente positivo e inclusivo para todos os participantes do projeto. Esperamos que todos os envolvidos demonstrem respeito mútuo, cortesia e colaboração. Ao participar deste projeto, você concorda em seguir este código de conduta em todas as interações relacionadas ao projeto.
 
 <br />

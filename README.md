@@ -3,4 +3,16 @@
 
   Repositório do Feudo Amarelo Girassol destinado ao projeto da disciplina de Desenvolvimento de Software do curso de Engenharia de Software da Universidade de Brasília.
 
+## Integrantes:
+<ul>
+<li>Bruno Alves (conselheiro) <br></li>
+<li>Luísa De Souza (duquesa) <br></li>
+<li>Camila Silva (vice-duquesa) <br></li>
+<li>Brenda Breatriz (cavaleira) <br></li>
+<li>Geovanna Alves (cavaleira) <br></li>
+<li>Laryssa Felix (cavaleira) <br></li>
+<li>Letícia Da Silva (cavaleira)</li>
+</ul>
 
+## Projeto:
+Aplicação web que reúne informações da Faculdade UnB Gama (FGA), visando a praticidade e a otimização do tempo do universitário.

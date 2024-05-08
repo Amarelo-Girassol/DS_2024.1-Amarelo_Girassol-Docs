@@ -175,7 +175,7 @@ Linguagens & Tecnologias: JavaScript, Python, PowerBI, HTML, CSS, Figma, Latex.\
       </a>
     </td>
     <td align="center">
-      <h3 align="center"> Camila Silva Cavalcante 🌻 {Cavaleira}</h3>
+      <h3 align="center"> Camila Silva Cavalcante 🌻 {Vice Duquesa}</h3>
            <p>Olá, Sou a Camila do Feudo, Girassol Amarelo!</p>
            <p>Como estudante de Engenharia de Software na UnB, me concentro em desenvolvimento tanto de frontend quanto de backend. Estou sempre em busca de oportunidades para ganhar experiência em programação, trabalhando em equipe e aprendendo novas técnicas e linguagens. Fora dos estudos, gosto de passar meu tempo livre lendo livros e assistindo filmes.</p>
     </td>

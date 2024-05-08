@@ -19,7 +19,7 @@ const AmareloGirassol = {
     "Bruno Félix": "Conselheiro",
     "Luísa Souza": "Duquesa",
     "Brenda Beatriz": "Cavaleira",
-    "Camila Calvacante": "Cavaleira",
+    "Camila Calvacante": "Vice Duquesa",
     "Geovanna Umbelino": "Cavaleira",
     "Letícia": "Cavaleira",
     "Laryssa Félix": "Cavaleira"
@@ -162,7 +162,7 @@ Linguagens & Tecnologias: JavaScript, Python, PowerBI, HTML, CSS, Figma, Latex.\
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brwnds) 
 </details>
 <details>
-    <summary> { 2- Cavaleira} </summary>
+    <summary> { 2- Vice Duquesa} </summary>
         <blockquote> 
 <table>
   <tr>
